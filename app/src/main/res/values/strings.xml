@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ColomaRayzaLab4</string>
+    <string name="name">Gili Lankanfushi</string>
+    <string name="location">Location: Lankanfushi, Maldives</string>
+    <string name="distance">Distance from UST: 5,382 km</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+</resources>
